@@ -1,9 +1,9 @@
 import random
 
-def hello():
-    print("hello, world!")
+#def hello():
+#    print("hello, world!")
 
-hello()
+#hello()
 
 #write a decorator function logs input and output and times it to a function
 def log(func):
